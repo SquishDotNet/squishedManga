@@ -12,6 +12,4 @@ namespace RazorPagesManga.Models;
         [Required]
         public string? Genre { get; set; }
         public int VolumeCount { get; set; }
-        [DataType(DataType.Date)]
-        public DateTime ReleaseDate { get; set; }
     }
