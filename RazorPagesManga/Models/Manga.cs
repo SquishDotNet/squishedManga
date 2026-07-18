@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RazorPagesManga.Models;
 
@@ -11,5 +12,6 @@ namespace RazorPagesManga.Models;
         public string? Author { get; set; }
         [Required]
         public string? Genre { get; set; }
+        [Display(Name = "Volume Count")]
         public int VolumeCount { get; set; }
     }
