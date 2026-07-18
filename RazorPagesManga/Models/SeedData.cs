@@ -26,14 +26,17 @@
         Title = "Sketchy",
         Author= "Makihirochi",
         Genre = "Slice of Life",
-        VolumeCount = 6
+        VolumeCount = 6,
+        Rating = "Teen",
         },
+
         new Manga
         {
         Title = "Don't Toy With Me, Miss Nagatoro",
         Author = "Nanashi",
         Genre = "Romantic Comedy",
-        VolumeCount = 20
+        VolumeCount = 20,
+        Rating = "Teen",
        },
 
         new Manga
@@ -41,7 +44,8 @@
         Title = "Bloom Into You",
         Author = "Nanashi",
         Genre = "Yuri",
-        VolumeCount = 8
+        VolumeCount = 8,
+        Rating = "Teen",
         }
     );
     context.SaveChanges();

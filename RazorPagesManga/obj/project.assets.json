@@ -6468,11 +6468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Squish\\Documents\\Personal App Dev\\squishedManga\\RazorPagesManga\\RazorPagesManga.csproj",
+      "projectUniqueName": "C:\\Users\\Squish\\Documents\\Personal App Dev\\squishedManga\\RazorPagesManga\\RazorPagesManga.csproj",
       "projectName": "RazorPagesManga",
-      "projectPath": "c:\\Users\\Squish\\Documents\\Personal App Dev\\squishedManga\\RazorPagesManga\\RazorPagesManga.csproj",
+      "projectPath": "C:\\Users\\Squish\\Documents\\Personal App Dev\\squishedManga\\RazorPagesManga\\RazorPagesManga.csproj",
       "packagesPath": "C:\\Users\\Squish\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Squish\\Documents\\Personal App Dev\\squishedManga\\RazorPagesManga\\obj\\",
+      "outputPath": "C:\\Users\\Squish\\Documents\\Personal App Dev\\squishedManga\\RazorPagesManga\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Squish\\AppData\\Roaming\\NuGet\\NuGet.Config"

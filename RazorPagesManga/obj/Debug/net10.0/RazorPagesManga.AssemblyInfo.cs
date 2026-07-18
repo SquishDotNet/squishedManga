@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorPagesManga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1755263fcd02542f064c30b8d292f1abbae762b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71d005073f176f2c128035678a4e0c3b36373e4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorPagesManga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorPagesManga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

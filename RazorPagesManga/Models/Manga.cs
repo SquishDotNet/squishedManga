@@ -14,4 +14,5 @@ namespace RazorPagesManga.Models;
         public string? Genre { get; set; }
         [Display(Name = "Volume Count")]
         public int VolumeCount { get; set; }
+        public string Rating { get; set; } = string.Empty;
     }
